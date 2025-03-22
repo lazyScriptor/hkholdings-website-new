@@ -1,0 +1,1 @@
+import{j as e}from"./index-Du8wxtP2.js";function o(){return e.jsxs("div",{children:["tailChase.register() // Default values shown",e.jsx("l-tail-chase",{size:"40",speed:"1.75",color:"black"})]})}export{o as L};
